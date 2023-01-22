@@ -1,6 +1,6 @@
 # Tic-Tac-Toe with React App
 
-### `For studying purpose`
+### `Created by Claudia Lisboa - For studying purpose`
 
 
 
